@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a.ferri/OneDrive - UBroker SpA/Desktop/Ale/corso di
+  formazione/CORSO_IA_DATA_ANALYSIS/ai_course_data_analysis/capstone_project/mlruns/233809910884440724/37930868e3fc4d7199b7c92dc96e89eb/artifacts
+end_time: 1791463408062
+entry_point_name: ''
+experiment_id: '233809910884440724'
+lifecycle_stage: active
+run_id: 37930868e3fc4d7199b7c92dc96e89eb
+run_name: best_random_forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791463371393
+status: 3
+tags: []
+user_id: a.ferri

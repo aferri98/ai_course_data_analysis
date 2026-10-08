@@ -1,0 +1,24 @@
+artifact_path: file:///c:/Users/a.ferri/OneDrive - UBroker SpA/Desktop/Ale/corso di
+  formazione/CORSO_IA_DATA_ANALYSIS/ai_course_data_analysis/capstone_project/mlruns/233809910884440724/models/m-c06481f3711f4416b9ab531ea474e514/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.17
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.9.1
+    skops_trusted_types: null
+mlflow_version: 3.16.1
+model_id: m-c06481f3711f4416b9ab531ea474e514
+model_size_bytes: 461756
+model_uuid: m-c06481f3711f4416b9ab531ea474e514
+prompts: null
+run_id: 11db79ecebae4fd1b3e3d419897817c6
+utc_time_created: '2026-10-08 12:45:22.716012'

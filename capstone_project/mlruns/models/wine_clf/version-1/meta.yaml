@@ -1,0 +1,17 @@
+creation_timestamp: 1791465106215
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1791465106215
+model_id: m-58f7984b3e74405d86998a68d1fcb931
+name: wine_clf
+run_id: c05c1029e3f1478ea93ebd96c4622620
+run_link: null
+source: models:/m-58f7984b3e74405d86998a68d1fcb931
+status: READY
+status_message: null
+storage_location: file:///c:/Users/a.ferri/OneDrive - UBroker SpA/Desktop/Ale/corso
+  di formazione/CORSO_IA_DATA_ANALYSIS/ai_course_data_analysis/capstone_project/mlruns/233809910884440724/models/m-58f7984b3e74405d86998a68d1fcb931/artifacts
+user_id: null
+version: 1
+workspace: default

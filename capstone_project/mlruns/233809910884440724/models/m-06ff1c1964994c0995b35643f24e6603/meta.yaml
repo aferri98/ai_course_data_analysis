@@ -1,0 +1,11 @@
+artifact_location: file:///c:/Users/a.ferri/OneDrive - UBroker SpA/Desktop/Ale/corso
+  di formazione/CORSO_IA_DATA_ANALYSIS/ai_course_data_analysis/capstone_project/mlruns/233809910884440724/models/m-06ff1c1964994c0995b35643f24e6603/artifacts
+creation_timestamp: 1791463371674
+experiment_id: '233809910884440724'
+last_updated_timestamp: 1791463407857
+model_id: m-06ff1c1964994c0995b35643f24e6603
+model_type: null
+name: model
+source_run_id: 37930868e3fc4d7199b7c92dc96e89eb
+status: 2
+status_message: null

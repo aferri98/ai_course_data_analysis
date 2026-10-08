@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/a.ferri/OneDrive - UBroker SpA/Desktop/Ale/corso di
+  formazione/CORSO_IA_DATA_ANALYSIS/ai_course_data_analysis/capstone_project/mlruns/233809910884440724/746131acf9bd420fa3849083ab4e8149/artifacts
+end_time: 1791463522342
+entry_point_name: ''
+experiment_id: '233809910884440724'
+lifecycle_stage: active
+run_id: 746131acf9bd420fa3849083ab4e8149
+run_name: wine_quality_random_forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791463512354
+status: 3
+tags: []
+user_id: a.ferri
